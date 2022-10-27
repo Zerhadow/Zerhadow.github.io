@@ -1,20 +1,20 @@
 [
   {
     name: GitHub,
-    text: nicolasmaclean,
-    link: /github/,
+    text: zerhadow,
+    link: https://github.com/Zerhadow,
     icon: "fa fa-github-square",
   },
   {
     name: Email,
-    text: dummy@gmail.com,
+    text: rashaungay196@gmail.com,
     link: /mail/,
     icon: "fa fa-envelope-square",
   },
   {
     name: LinkedIn,
-    text: nick-maclean,
-    link: /linkedin/,
+    text: zerhadow,
+    link: https://www.linkedin.com/in/juliangay196/,
     icon: "fa fa-linkedin-square",
   }
 ]
